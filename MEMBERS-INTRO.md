@@ -46,6 +46,27 @@
 모바일 게임 서버개발팀에 있습니다. 팀프로젝트로 안드로이드/iOS 개발한 경험이 있습니다.
 
 
+### 정광본
+- gmail:  kwangbon@gmail.com
+- trello: billymonkey
+- github: billymonkey
+
+C c++ Java Jsp php 안드로이드 의 다수의 프로젝트를 진행했습니다 지금은 시스템 운용 및 시스템 개발을 하고 있으며 최근에 웹과 빅데이터에 관심을 가지고 있습니다
+
+### 남동균
+- gmail:  ndk0706@gmail.com
+- trello: 
+- github: camongman
+
+핸드폰이라쓰기어렵네요.나중에 업뎃할께요
+
+### 박찬엽
+- gmail:  mrchypark@gmail.com
+- trello: 
+- github: 
+
+빅데이터관련학과에 대학원 진학예정인 학생입니다.
+
 ----
 
 
