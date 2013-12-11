@@ -55,7 +55,7 @@ C c++ Java Jsp php 안드로이드 의 다수의 프로젝트를 진행했습니
 
 ### 남동균
 - gmail:  ndk0706@gmail.com
-- trello: 
+- trello: ndk0706@gmail.com
 - github: camongman
 
 핸드폰이라쓰기어렵네요.나중에 업뎃할께요
