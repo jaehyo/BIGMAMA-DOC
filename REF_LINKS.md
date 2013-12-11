@@ -17,6 +17,9 @@ http://angularjs.org/
 #### Nodejs
 http://nodejs.org
 
+#### breezejs ( Rich data for JavaScript apps is a breezejs )
+http://www.breezejs.com/
+
 #### MongoDB
 http://www.mongodb.org/
 
