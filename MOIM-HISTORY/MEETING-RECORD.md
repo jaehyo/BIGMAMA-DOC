@@ -26,3 +26,11 @@ http://data.seoul.go.kr/
 오프라인은 월1회 모여 발표와 치맥을 합니다.
 
 이 프로젝트는 (능력에 따라?) 오픈되어 있습니다.
+
+
+### Action Plan 
+
+1. LOL API 검토 & 공유 (고대준)
+2. 공공데이터 API 체크 및 공유 (조현석)
+3. Trello 빅마마 Organization 만들기
+4. 
