@@ -46,7 +46,12 @@
 - 5만원(6개월 단위, 식비 등에 사용)
 
 ## 가입문의
-1. 친구신청 [이강(https://www.facebook.com/kanghun.lee.737)
+1. 친구신청 [이강훈(https://www.facebook.com/kanghun.lee.737)
 2. 메시지로 - 경력위주 소개글, 지원동기, 추가문의
 
-[가입신청](https://www.facebook.com/groups/dev.study.members/)
+[가입신청](https://www.facebook.com/groups/bigmama.p/)
+
+
+관련링크 
+
+Trello : https://trello.com/bigmama2
