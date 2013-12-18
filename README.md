@@ -52,6 +52,6 @@
 [가입신청](https://www.facebook.com/groups/bigmama.p/)
 
 
-관련링크 
+관련링크
 
 Trello : https://trello.com/bigmama2

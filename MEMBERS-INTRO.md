@@ -62,8 +62,8 @@ C c++ Java Jsp php 안드로이드 의 다수의 프로젝트를 진행했습니
 
 ### 박찬엽
 - gmail:  mrchypark@gmail.com
-- trello: 
-- github: 
+- trello:
+- github:
 
 빅데이터관련학과에 대학원 진학예정인 학생입니다.
 
