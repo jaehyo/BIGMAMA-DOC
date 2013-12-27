@@ -74,6 +74,14 @@ C c++ Java Jsp php 안드로이드 의 다수의 프로젝트를 진행했습니
 
 현재는 서버사이드 위주로 프로젝트를 진행하고 있습니다. Windows 쪽은 MFC, WinForm을 이용한 어플리케이션 개발도 병행 하고 있습니다. 요즘 JavaScript에 관심이 많습니다.
 
+### 주현탁
+- gmail: momamene@gmail.com
+- trello: momamene
+- github: momamene
+
+현재 인터넷 강의 플랫폼 Learnyware (https://www.learnyware.com) 을 개발 및 운영하고 있습니다.
+전반적인 소프트웨어에 관심이 많으며 최근 빅데이터 및 머신러닝에 중점을 두고 있습니다.
+
 ----
 
 
