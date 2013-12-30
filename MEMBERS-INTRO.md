@@ -72,7 +72,7 @@ C c++ Java Jsp php 안드로이드 의 다수의 프로젝트를 진행했습니
 - trello: kkode1911@gmail.com
 - github: daejoon
 
-현재는 서버사이드 위주로 프로젝트를 진행하고 있습니다. Windows 쪽은 MFC, WinForm을 이용한 어플리케이션 개발도 병행 하고 있습니다. 요즘 JavaScript에 관심이 많습니다.
+현재는 서버사이드 위주의 프로젝트를 진행하고 있습니다. Windows쪽은 MFC, WinForm을 이용한 어플리케이션 개발도 병행 하고 있습니다. 요즘 JavaScript에 관심이 많습니다.
 
 ----
 
