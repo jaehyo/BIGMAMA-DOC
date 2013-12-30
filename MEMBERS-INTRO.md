@@ -75,6 +75,8 @@ C c++ Java Jsp php 안드로이드 의 다수의 프로젝트를 진행했습니
 - trello: jaehyo@gmail.com
 - github: Jaehyo@gmail.com
 
+주 언어는 c# 이고 그외에 php , objective c 등을 했네요.
+지금은 서버쪽 개발을 하고 있습니다. 이제야 정말로 빅데이터를 해보나요!!! ^^ 
 ----
 
 
