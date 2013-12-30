@@ -30,14 +30,6 @@
 피처폰/스마트폰 app부터 framework 개발까지 참여하였으며, 현재 모바일용 멀티미디어 엔진을 개발하고 있습니다. 회사에서 웹을 개발한적은 없으며 혼자서 공부해 나가는 중입니다. 저와 팀에 좋은 경험이 되길 바랍니다.
 
 
-### 박승규 - 서버사이드
-- gmail:  wapj2000@gmail.com
-- trello: wapj2000@gmail.com
-- github: wapj
-
-모바일 게임 서버 만드는 중이구요. 웹개발, 서버튜닝, 모니터링, 배포 등등 해본경험이 있습니다. 
-
-
 ### 양민지 - 서버사이드
 - gmail:  minjiyang95@gmail.com
 - trello: minji@devsisters.com
@@ -60,10 +52,6 @@ C c++ Java Jsp php 안드로이드 의 다수의 프로젝트를 진행했습니
 
 핸드폰이라쓰기어렵네요.나중에 업뎃할께요
 
-### 박찬엽
-- gmail:  mrchypark@gmail.com
-- trello:
-- github:
 
 빅데이터관련학과에 대학원 진학예정인 학생입니다.
 
@@ -73,6 +61,19 @@ C c++ Java Jsp php 안드로이드 의 다수의 프로젝트를 진행했습니
 - github: daejoon
 
 현재는 서버사이드 위주의 프로젝트를 진행하고 있습니다. Windows쪽은 MFC, WinForm을 이용한 어플리케이션 개발도 병행 하고 있습니다. 요즘 JavaScript에 관심이 많습니다.
+
+### 주현탁
+- gmail: momamene@gmail.com
+- trello: momamene
+- github: momamene
+
+현재 인터넷 강의 플랫폼 Learnyware (https://www.learnyware.com) 을 개발 및 운영하고 있습니다.
+전반적인 소프트웨어에 관심이 많으며 최근 빅데이터 및 머신러닝에 중점을 두고 있습니다.
+
+### 조재효 
+- gmail: Jaehyo@gmail.com
+- trello: jaehyo@gmail.com
+- github: Jaehyo@gmail.com
 
 ----
 
