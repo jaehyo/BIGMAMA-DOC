@@ -51,6 +51,6 @@ http://www.slideshare.net/lqez/the-mongodb-strikes-back-mongodb?from_search=2
 http://charsyam.wordpress.com/category/cloud/redis/
 
 ### Git
-http://github.com
-http://www.sourcetreeapp.com/
+http://github.com  
+http://www.sourcetreeapp.com/  
 http://ohgyun.com/402
