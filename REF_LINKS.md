@@ -1,6 +1,6 @@
 # 참고사이트
 
-### 서비스 
+### 서비스
 https://www.tibuzz.co.kr/
 https://www.5rocks.io/
 
@@ -35,7 +35,7 @@ http://blog.mongodb.org/post/57611443904/mongodb-connector-for-hadoop
 #### 아파치 하둡
 http://hadoop.apache.org/
 
-#### Storm 프로젝트 사이트 
+#### Storm 프로젝트 사이트
 http://storm-project.net/
 
 ### 참고 슬라이드

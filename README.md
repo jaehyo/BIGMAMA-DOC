@@ -42,11 +42,9 @@
  + 발표자료 
 - 다양한 빅데이터 시각화 오픈 프로젝트 진행
 
-## 회비
-- 5만원(6개월 단위, 식비 등에 사용)
+[페북그룹](https://www.facebook.com/groups/bigmama.p/)
 
-## 가입문의
-1. 친구신청 [이강(https://www.facebook.com/kanghun.lee.737)
-2. 메시지로 - 경력위주 소개글, 지원동기, 추가문의
 
-[가입신청](https://www.facebook.com/groups/dev.study.members/)
+관련링크
+
+Trello : https://trello.com/bigmama2
